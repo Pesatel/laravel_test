@@ -1,4 +1,4 @@
 <?php
 	print('Test.');
-	print('Test2.'); // This is comment.
+	print('Test2.'); // This is comment. 
 ?>
